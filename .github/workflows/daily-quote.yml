@@ -1,4 +1,5 @@
 name: Daily Quote                                                                                                                   
+                                                                                                                                      
   on:                                                                                                                                 
     schedule:                                                                                                                         
       - cron: '0 0 * * *'                                                                                                             
@@ -25,4 +26,4 @@ name: Daily Quote
             git config user.email "actions@github.com"                                                                                
             git add .                                                                                                                 
             git commit -m "✨ Quote of the day"                                                                                       
-            git push                          
+            git push
