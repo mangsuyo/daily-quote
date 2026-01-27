@@ -1,0 +1,28 @@
+name: Daily Quote                                                                                                                   
+  on:                                                                                                                                 
+    schedule:                                                                                                                         
+      - cron: '0 0 * * *'                                                                                                             
+    workflow_dispatch:                                                                                                                
+                                                                                                                                      
+  permissions:                                                                                                                        
+    contents: write                                                                                                                   
+                                                                                                                                      
+  jobs:                                                                                                                               
+    quote:                                                                                                                            
+      runs-on: ubuntu-latest                                                                                                          
+      steps:                                                                                                                          
+        - uses: actions/checkout@v4                                                                                                   
+                                                                                                                                      
+        - name: Add daily quote                                                                                                       
+          run: |                                                                                                                      
+            QUOTE=$(curl -s https://zenquotes.io/api/random | jq -r '.[0] | "**\(.q)** - *\(.a)*"')                                   
+                                                                                                                                      
+            echo "" >> README.md                                                                                                      
+            echo "### 📅 $(date +'%Y-%m-%d')" >> README.md                                                                            
+            echo "> $QUOTE" >> README.md                                                                                              
+                                                                                                                                      
+            git config user.name "github-actions"                                                                                     
+            git config user.email "actions@github.com"                                                                                
+            git add .                                                                                                                 
+            git commit -m "✨ Quote of the day"                                                                                       
+            git push                          
