@@ -3,3 +3,6 @@
 
 ### 📅 2026-01-27
 > **No one returns from a long journey the same person they were before.** - *Zen Proverb*
+
+### 📅 2026-01-28
+> **Faults are yours to fix, not to curse.** - *Colin Powell*
