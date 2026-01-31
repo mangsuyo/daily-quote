@@ -12,3 +12,6 @@
 
 ### 📅 2026-01-30
 > **Thinking will not overcome fear but action will. ** - *W. Clement Stone*
+
+### 📅 2026-01-31
+> **There is a difference between giving directions and giving direction.** - *Simon Sinek*
