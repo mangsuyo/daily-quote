@@ -15,3 +15,6 @@
 
 ### 📅 2026-01-31
 > **There is a difference between giving directions and giving direction.** - *Simon Sinek*
+
+### 📅 2026-02-01
+> **When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.** - *Paramahansa Yogananda*
