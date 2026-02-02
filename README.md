@@ -18,3 +18,6 @@
 
 ### 📅 2026-02-01
 > **When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.** - *Paramahansa Yogananda*
+
+### 📅 2026-02-02
+> **If we are not able to smile, then the world will not have peace.** - *Thich Nhat Hanh*
