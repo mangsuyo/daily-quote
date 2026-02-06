@@ -30,3 +30,6 @@
 
 ### 📅 2026-02-05
 > **You are what you do, not what you say you'll do.** - *Carl Jung*
+
+### 📅 2026-02-06
+> **If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.** - *Simon Sinek*
