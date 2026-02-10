@@ -42,3 +42,6 @@
 
 ### 📅 2026-02-09
 > **Presents are made for the pleasure of who gives them, not the merits of who receives them.** - *Carlos Ruiz Zafon*
+
+### 📅 2026-02-10
+> **Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!** - *Alfred Adler*
