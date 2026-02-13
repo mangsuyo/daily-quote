@@ -51,3 +51,6 @@
 
 ### 📅 2026-02-12
 > **Where there is no struggle, there is no strength. ** - *Oprah Winfrey*
+
+### 📅 2026-02-13
+> **If you are lucky enough to find love, remember it is there and don't throw it away.** - *Stephen Hawking*
