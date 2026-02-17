@@ -63,3 +63,6 @@
 
 ### 📅 2026-02-16
 > **A journey of a thousand miles begins with a single step.** - *Lao Tzu*
+
+### 📅 2026-02-17
+> **The ego wants to go fast. The soul needs to go slow.** - *Maxime Lagace*
