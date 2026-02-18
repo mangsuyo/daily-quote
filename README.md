@@ -66,3 +66,6 @@
 
 ### 📅 2026-02-17
 > **The ego wants to go fast. The soul needs to go slow.** - *Maxime Lagace*
+
+### 📅 2026-02-18
+> **Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.** - *Kahlil Gibran*
