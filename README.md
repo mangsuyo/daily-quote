@@ -72,3 +72,6 @@
 
 ### 📅 2026-02-19
 > **Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.** - *Charles Spurgeon*
+
+### 📅 2026-02-20
+> **People who belittle people, will be LITTLE people, and will accomplish very Little** - *Norman Vincent Peale*
