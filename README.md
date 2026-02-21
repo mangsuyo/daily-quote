@@ -75,3 +75,6 @@
 
 ### 📅 2026-02-20
 > **People who belittle people, will be LITTLE people, and will accomplish very Little** - *Norman Vincent Peale*
+
+### 📅 2026-02-21
+> **Never settle for the crumbs of life.** - *Og Mandino*
