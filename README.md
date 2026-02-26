@@ -90,3 +90,6 @@
 
 ### 📅 2026-02-25
 > **Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.** - *Charles Spurgeon*
+
+### 📅 2026-02-26
+> **Confidence comes from crossing thresholds.** - *Kamal Ravikant*
