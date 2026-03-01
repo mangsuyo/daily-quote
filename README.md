@@ -99,3 +99,6 @@
 
 ### 📅 2026-02-28
 > **There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.** - *Alexandre Dumas*
+
+### 📅 2026-03-01
+> **If you do the work you get rewarded. There are no shortcuts in life.** - *Michael Jordan*
