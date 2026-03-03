@@ -105,3 +105,6 @@
 
 ### 📅 2026-03-02
 > **You only live once, but if you do it right, once is enough.** - *Mae West*
+
+### 📅 2026-03-03
+> **People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.** - *Andrew Carnegie*
