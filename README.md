@@ -108,3 +108,6 @@
 
 ### 📅 2026-03-03
 > **People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.** - *Andrew Carnegie*
+
+### 📅 2026-03-04
+> **When angry count to ten before you speak. If very angry, count to one hundred.** - *Thomas Jefferson*
